@@ -25,3 +25,6 @@ yarn-error.log*
 
 # Backend
 server_venv
+credentials.py
+db.sqlite3
+__pycache__
